@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
-    <h1>Hello World</h1>
+  <div class="">
+    <div class="cards">aaa</div>
   </div>
 </template>
